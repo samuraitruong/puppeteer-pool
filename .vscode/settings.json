@@ -1,0 +1,6 @@
+{
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "prettier.quoteProps": "consistent",
+  "prettier.singleQuote": false
+}
